@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bouchboukyounes7-beep.github.io/tech-guide-morocco.github.io/sitemap.xml
